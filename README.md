@@ -42,7 +42,7 @@ C -- User input ---> B
 - `VotingScreen`;
 - `VotingResultsScreen`;
 - `GameResultsScreen`;
-- `ConstructorScreem`;
+- `ConstructorScreen`;
 - `TaskCreateScreen`;
 - `GameCreateScreen`.
 
