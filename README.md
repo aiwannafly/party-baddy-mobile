@@ -51,6 +51,7 @@ C -- User input ---> B
 Виджеты общего назначения, которые потребуются для взаимодействия с пользователем:
 - `ShortInputLabel`;
 - `LongInputLabel`;
+- `SelectableList`;
 - `Button`;
 - `Slider`;
 - `ImageView`.
